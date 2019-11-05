@@ -1,5 +1,5 @@
 # Rock Paper Scissors in Python!
-Pick your weapon amd fight to death with the computer - you'll get nothing if you win!
+##Pick your weapon amd fight to death with the computer - you'll get nothing if you win!
 
 Prerequiisites: All you need is Python3 to play.
 
