@@ -76,7 +76,7 @@ while player == False:
 			player = False
 			computer = choice[randint(0,2)]
 
-	elif player_lives is 0:
+	elif computer_lives is 0:
 		print("Computer is out of lives! You rock at this game. Would you like to play again?")
 		choice = input("Y / N")
 		print(choice)
@@ -94,4 +94,4 @@ while player == False:
   
     	#need ro check all of our comditions after checking for a tie
 	player = False;
-	#computer = choices[randint(0, 2)]
+	computer = choices[randint(0, 2)]
